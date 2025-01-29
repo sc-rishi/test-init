@@ -5,5 +5,8 @@ import (
 )
 
 func main() {
-	fmt.Println("hello world")
+	x := 5
+    y := 10
+    z := x + y
+	fmt.Println(z)
 }
